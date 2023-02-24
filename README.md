@@ -1,4 +1,4 @@
-# TechnicalTest TDD
+# Technical Test
 
 1. Write a function to get information from the API using the URL in api.service.ts
 
@@ -10,6 +10,9 @@
 
 5. Add a search box in the dashboard for finding a planet.
 
+-------- Expected ------------
+
+Unit tests, and at least some TDD.
 
 -------- Optional ------------
 
